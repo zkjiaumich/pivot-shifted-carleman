@@ -7,6 +7,7 @@
 ├── psc_logistic.py             # PSC algorithm — scalar logistic ODE
 ├── psc_lotka_volterra.py       # PSC algorithm — 2D Lotka-Volterra system
 ├── plot_results.ipynb          # Parameters, data, and all paper figures
+├── sensitivity_analysis.ipynb  # Pivot sensitivity plots
 ├── requirements.txt            # pip-installable dependencies
 ├── environment.yml             # conda environment specification
 └── README.md
@@ -50,4 +51,3 @@ conda activate psc-carleman
 ```bash
 pip install -r requirements.txt
 ```
-
