@@ -1,6 +1,6 @@
-# Pivot-Shifted Carleman Linearisation
+# Pivot-Shifted Carleman Linearization
 This repository implements numerical experiments for **pivot-shifted Carleman
-linearisation (PSC)** applied to two quadratic ordinary differential equations:
+linearization (PSC)** applied to two quadratic ordinary differential equations:
 the scalar logistic equation and the two-dimensional Lotka–Volterra system. It
 supports the experiments associated with
 [arXiv:2605.20071](https://arxiv.org/abs/2605.20071).
